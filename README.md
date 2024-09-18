@@ -1,4 +1,3 @@
----
 
 # 🚀 Mastering Object-Oriented Programming Concepts (OOP) 🧑‍💻👩‍💻
 
@@ -111,4 +110,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 🎉 **Happy Coding, and welcome to the OOP journey!** 🎉
 
----
